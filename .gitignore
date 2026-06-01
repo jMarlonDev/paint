@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
